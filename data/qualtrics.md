@@ -1,8 +1,8 @@
-Security Assurance Senior  Analyst - https://www.qualtrics.com/careers/us/en/job/5513097?gh_jid=5513097
+Manager, Security Operations - Provo  - https://www.qualtrics.com/careers/us/en/job/6114239?gh_jid=6114239
 
-Senior Manager, Platform Security - Provo  - https://www.qualtrics.com/careers/us/en/job/5907260?gh_jid=5907260
+Offensive Security Team Lead - https://www.qualtrics.com/careers/us/en/job/6190149?gh_jid=6190149
 
-Senior Security Engineer, Infrastructure & Cloud Security - https://www.qualtrics.com/careers/us/en/job/5708068?gh_jid=5708068
+Security Architect - Data and AI - https://www.qualtrics.com/careers/us/en/job/6164320?gh_jid=6164320
 
-Senior Security Engineer, Platform Security - https://www.qualtrics.com/careers/us/en/job/5499270?gh_jid=5499270
+Security Architect - Identity and Access Management - https://www.qualtrics.com/careers/us/en/job/6164429?gh_jid=6164429
 

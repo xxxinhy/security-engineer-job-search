@@ -1,30 +1,46 @@
-Application Security Engineer - https://www.coinbase.com/careers/positions/5842863?gh_jid=5842863
+Head, EMEA Security Risk & Controls - https://www.coinbase.com/careers/positions/6169205?gh_jid=6169205
 
-Lead, EMEA Privacy Compliance - https://www.coinbase.com/careers/positions/5774688?gh_jid=5774688
+Lead Security Analyst, CSIRT - https://www.coinbase.com/careers/positions/6076800?gh_jid=6076800
 
-Lead, Privacy Programs - https://www.coinbase.com/careers/positions/5702226?gh_jid=5702226
+Privacy Analyst - https://www.coinbase.com/careers/positions/6107169?gh_jid=6107169
 
-Lead, Privacy Programs - https://www.coinbase.com/careers/positions/5765506?gh_jid=5765506
+Regional Security Manager, APAC - https://www.coinbase.com/careers/positions/6041508?gh_jid=6041508
 
-Lead, Privacy Programs - https://www.coinbase.com/careers/positions/5914318?gh_jid=5914318
+Security Analyst, CSIRT - https://www.coinbase.com/careers/positions/6076805?gh_jid=6076805
 
-Privacy Specialist - https://www.coinbase.com/careers/positions/5893305?gh_jid=5893305
+Security Analyst, Lead - https://www.coinbase.com/careers/positions/6161966?gh_jid=6161966
 
 Security Analyst, Lead - https://www.coinbase.com/careers/positions/5910554?gh_jid=5910554
 
-Security Program Manager - https://www.coinbase.com/careers/positions/5893314?gh_jid=5893314
+Security Compliance Analyst - https://www.coinbase.com/careers/positions/6051358?gh_jid=6051358
 
-Security Site Reliability Engineer - https://www.coinbase.com/careers/positions/5865646?gh_jid=5865646
+Security Compliance Senior Analyst, SOX - https://www.coinbase.com/careers/positions/6162916?gh_jid=6162916
 
-Security Site Reliability Engineer - https://www.coinbase.com/careers/positions/5865644?gh_jid=5865644
+Security Compliance Senior Analyst, SOX - https://www.coinbase.com/careers/positions/6162912?gh_jid=6162912
 
-Senior Counsel - Security - https://www.coinbase.com/careers/positions/5896366?gh_jid=5896366
+Security Engineer - https://www.coinbase.com/careers/positions/6041504?gh_jid=6041504
 
-Senior Engineering Manager, Blockchain Security - https://www.coinbase.com/careers/positions/5705784?gh_jid=5705784
+Security Engineer - https://www.coinbase.com/careers/positions/5986735?gh_jid=5986735
 
-Senior Engineering Manager, Blockchain Security - https://www.coinbase.com/careers/positions/5478245?gh_jid=5478245
+Security Engineer - https://www.coinbase.com/careers/positions/6107181?gh_jid=6107181
 
-Senior Security Engineer - https://www.coinbase.com/careers/positions/5911369?gh_jid=5911369
+Security Risk Specialist - https://www.coinbase.com/careers/positions/6050672?gh_jid=6050672
+
+Senior Analyst, International Security - https://www.coinbase.com/careers/positions/5959275?gh_jid=5959275
+
+Senior Blockchain Security Engineer - https://www.coinbase.com/careers/positions/6047441?gh_jid=6047441
+
+Senior Engineering Manager, Onchain Security - https://www.coinbase.com/careers/positions/5478245?gh_jid=5478245
+
+Senior Engineering Manager, Onchain Security - https://www.coinbase.com/careers/positions/5705784?gh_jid=5705784
+
+Sr. Security Engineer - https://www.coinbase.com/careers/positions/6070553?gh_jid=6070553
 
 Staff Blockchain Security Engineer - https://www.coinbase.com/careers/positions/5910234?gh_jid=5910234
+
+Staff Security Engineer - https://www.coinbase.com/careers/positions/6070556?gh_jid=6070556
+
+Staff Security Engineer - https://www.coinbase.com/careers/positions/6141949?gh_jid=6141949
+
+Systems Security Analyst  - https://www.coinbase.com/careers/positions/5865636?gh_jid=5865636
 

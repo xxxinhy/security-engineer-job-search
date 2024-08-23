@@ -1,4 +1,4 @@
-Infrastructure Security Engineer  - https://instacart.careers/job/?gh_jid=5834953
+Engineering Manager, Privacy Security - https://instacart.careers/job/?gh_jid=6159207
 
-Senior Product Security Engineer - https://instacart.careers/job/?gh_jid=5904357
+Senior Software Engineer, Privacy Security - https://instacart.careers/job/?gh_jid=6120574
 

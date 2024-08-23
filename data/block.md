@@ -1,64 +1,70 @@
-Senior Software Security Engineer, Infrastructure - https://jobs.smartrecruiters.com/Square/743999985636883-senior-software-security-engineer-infrastructure
+Platform Product Manager, Cash App - https://jobs.smartrecruiters.com/Square/744000008806685-platform-product-manager-cash-app
 
-Senior Software Engineer - Identity Verifications, Trust - https://jobs.smartrecruiters.com/Square/743999984979803-senior-software-engineer-identity-verifications-trust
+Tech Lead Software Engineer (Backend), Identity Platform - https://jobs.smartrecruiters.com/Square/744000008246440-tech-lead-software-engineer-backend-identity-platform
 
-Program Manager, Device Hardware Assets - https://jobs.smartrecruiters.com/Square/743999984894814-program-manager-device-hardware-assets
+Head of Strategic Partnerships, Financial Operations - https://jobs.smartrecruiters.com/Square/744000008144503-head-of-strategic-partnerships-financial-operations
 
-Software Engineer (Backend), Authorization - https://jobs.smartrecruiters.com/Square/743999984408963-software-engineer-backend-authorization
+Product Compliance Manager - Trust, Cash App - https://jobs.smartrecruiters.com/Square/744000007909635-product-compliance-manager-trust-cash-app
 
-Senior Machine Learning Engineer - Underwriting & Credit - https://jobs.smartrecruiters.com/Square/743999984337213-senior-machine-learning-engineer-underwriting-credit
+Software Engineer, Client Platform Engineering - https://jobs.smartrecruiters.com/Square/744000007342140-software-engineer-client-platform-engineering
 
-Senior Software Engineer, Privacy Engineering - https://jobs.smartrecruiters.com/Square/743999984221513-senior-software-engineer-privacy-engineering
+Vendor Specialist (Collections) - https://jobs.smartrecruiters.com/Square/744000007341942-vendor-specialist-collections-
 
-Finance & Strategy Manager, Payments and Risk - https://jobs.smartrecruiters.com/Square/743999984191686-finance-strategy-manager-payments-and-risk
+Senior Quantitative User Experience Researcher - Support Quality & Trust - https://jobs.smartrecruiters.com/Square/744000006828645-senior-quantitative-user-experience-researcher-support-quality-trust
 
-Senior Machine Learning Engineer - Underwriting & Credit - https://jobs.smartrecruiters.com/Square/743999984156433-senior-machine-learning-engineer-underwriting-credit
+Traffic Engineer - Product Platform Engineering - https://jobs.smartrecruiters.com/Square/744000006808918-traffic-engineer-product-platform-engineering
 
-Android Software Engineer, Trust Mobile - https://jobs.smartrecruiters.com/Square/743999983931033-android-software-engineer-trust-mobile
+Senior Software Engineer, Payment Recovery - https://jobs.smartrecruiters.com/Square/744000006568135-senior-software-engineer-payment-recovery
 
-Bitcoin Platform - Liquidity Operations Manager - https://jobs.smartrecruiters.com/Square/743999983920823-bitcoin-platform-liquidity-operations-manager
+Tech Lead/Staff Engineer, TBD - https://jobs.smartrecruiters.com/Square/744000006387375-tech-lead-staff-engineer-tbd
 
-Partner Operations Manager - https://jobs.smartrecruiters.com/Square/743999983542047-partner-operations-manager
+Senior Security Incident Response Engineer - https://jobs.smartrecruiters.com/Square/744000006381209-senior-security-incident-response-engineer
 
-Senior iOS Software Engineer, Add On Library - https://jobs.smartrecruiters.com/Square/743999983010974-senior-ios-software-engineer-add-on-library
+Senior Machine Learning Engineer - Underwriting & Credit - https://jobs.smartrecruiters.com/Square/744000006102395-senior-machine-learning-engineer-underwriting-credit
 
-Senior Software Engineer (Cryptography), Bitkey - https://jobs.smartrecruiters.com/Square/743999982745763-senior-software-engineer-cryptography-bitkey
+Security Technical Program Manager (Security TPM), Security PMO - https://jobs.smartrecruiters.com/Square/744000006102144-security-technical-program-manager-security-tpm-security-pmo
 
-Senior Software Engineer (Backend Infrastructure) - https://jobs.smartrecruiters.com/Square/743999982738606-senior-software-engineer-backend-infrastructure-
+Senior Software Engineer, Privacy Engineering - https://jobs.smartrecruiters.com/Square/744000006102105-senior-software-engineer-privacy-engineering
 
-Senior Software Engineer (Infrastructure & Platform) - https://jobs.smartrecruiters.com/Square/743999982738333-senior-software-engineer-infrastructure-platform-
+Product & Channel Partnerships Manager - https://jobs.smartrecruiters.com/Square/744000006101245-product-channel-partnerships-manager
 
-Global Security Operations Center (GSOC) Lead - https://jobs.smartrecruiters.com/Square/743999982472068-global-security-operations-center-gsoc-lead
+Product Head of Access & Accounts - https://jobs.smartrecruiters.com/Square/744000006100515-product-head-of-access-accounts
 
-Staff Software Engineer (Mobile), Bitkey - https://jobs.smartrecruiters.com/Square/743999981794953-staff-software-engineer-mobile-bitkey
+Mobile Engineering Manager, Trust - Identity & Transfers - https://jobs.smartrecruiters.com/Square/744000006099758-mobile-engineering-manager-trust-identity-transfers
+
+Senior Security Engineer - Bitcoin Platform - https://jobs.smartrecruiters.com/Square/744000006099698-senior-security-engineer-bitcoin-platform
+
+Sr. Electrical Design Engineer - https://jobs.smartrecruiters.com/Square/744000006030715-sr-electrical-design-engineer
+
+Senior Embedded Software Engineer, Performance - https://jobs.smartrecruiters.com/Square/744000006028890-senior-embedded-software-engineer-performance
+
+Staff Software Engineer - Issuing, Financial Platform - https://jobs.smartrecruiters.com/Square/744000006020422-staff-software-engineer-issuing-financial-platform
+
+Security Technical Program Manager (Security TPM), Security PMO - https://jobs.smartrecruiters.com/Square/744000005586512-security-technical-program-manager-security-tpm-security-pmo
+
+Staff Software Engineer - Identity, Trust - https://jobs.smartrecruiters.com/Square/743999999985141-staff-software-engineer-identity-trust
+
+Staff Software Engineer - Access, Trust - https://jobs.smartrecruiters.com/Square/743999999727263-staff-software-engineer-access-trust
+
+Staff Software Engineer - Access, Trust - https://jobs.smartrecruiters.com/Square/743999999728164-staff-software-engineer-access-trust
+
+Software Engineer, Access - Trust - https://jobs.smartrecruiters.com/Square/743999999725357-software-engineer-access-trust
+
+Staff Software Engineer - Identity, Trust - https://jobs.smartrecruiters.com/Square/743999999724865-staff-software-engineer-identity-trust
+
+Staff Software Engineer (Mobile), Proto - https://jobs.smartrecruiters.com/Square/743999996937231-staff-software-engineer-mobile-proto
+
+Senior Machine Learning Engineer - Underwriting & Credit - https://jobs.smartrecruiters.com/Square/743999993315470-senior-machine-learning-engineer-underwriting-credit
+
+Acquirer Operations Manager - https://jobs.smartrecruiters.com/Square/743999992915515-acquirer-operations-manager
+
+Senior iOS Software Engineer, Trust - https://jobs.smartrecruiters.com/Square/743999990783481-senior-ios-software-engineer-trust
+
+Senior iOS Software Engineer, Trust - https://jobs.smartrecruiters.com/Square/743999990783813-senior-ios-software-engineer-trust
+
+Senior iOS Software Engineer, Trust - https://jobs.smartrecruiters.com/Square/743999990784150-senior-ios-software-engineer-trust
+
+Senior Software Security Engineer - Product - https://jobs.smartrecruiters.com/Square/743999990710744-senior-software-security-engineer-product
 
 Software Engineer, Backend - https://jobs.smartrecruiters.com/Square/743999981320293-software-engineer-backend
-
-Senior Regulatory Program Manager - https://jobs.smartrecruiters.com/Square/743999979684791-senior-regulatory-program-manager
-
-Security Governance Partner - Machine Learning/Data Science, Cash App - https://jobs.smartrecruiters.com/Square/743999977474954-security-governance-partner-machine-learning-data-science-cash-app
-
-Staff Software Engineer - Authentication, Trust - https://jobs.smartrecruiters.com/Square/743999976733573-staff-software-engineer-authentication-trust
-
-Offensive Security Engineer - https://jobs.smartrecruiters.com/Square/743999975556564-offensive-security-engineer
-
-Staff Software Engineer (Cryptography), Bitkey - https://jobs.smartrecruiters.com/Square/743999975535463-staff-software-engineer-cryptography-bitkey
-
-Solutions Architect, Ecosystems Team - https://jobs.smartrecruiters.com/Square/743999975500122-solutions-architect-ecosystems-team
-
-Staff Software Engineer - Issuing, Financial Platform - https://jobs.smartrecruiters.com/Square/743999974575043-staff-software-engineer-issuing-financial-platform
-
-Business Development Manager, Channel Partnerships - https://jobs.smartrecruiters.com/Square/743999974244753-business-development-manager-channel-partnerships
-
-Product & Channel Partnerships Manager, Verticals - https://jobs.smartrecruiters.com/Square/743999974235238-product-channel-partnerships-manager-verticals
-
-Product & Channel Partnerships Manager, Verticals - https://jobs.smartrecruiters.com/Square/743999973437736-product-channel-partnerships-manager-verticals
-
-Head of Operations, Bitcoin Platform - https://jobs.smartrecruiters.com/Square/743999968066353-head-of-operations-bitcoin-platform
-
-Senior Software Engineer, Bitcoin Platform - https://jobs.smartrecruiters.com/Square/743999967900693-senior-software-engineer-bitcoin-platform
-
-Senior Software Engineer, Core OS Platform - https://jobs.smartrecruiters.com/Square/743999967617954-senior-software-engineer-core-os-platform
-
-Staff Product Security Engineer, Bitkey - https://jobs.smartrecruiters.com/Square/743999960743178-staff-product-security-engineer-bitkey
 

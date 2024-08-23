@@ -1,10 +1,8 @@
-Security Analyst, Incident Response - https://app.careerpuck.com/job-board/lyft/job/7089912002?gh_jid=7089912002
+Security Engineer - Application Security - https://app.careerpuck.com/job-board/lyft/job/7505582002?gh_jid=7505582002
 
-Senior Software Engineer, Security Foundations - https://app.careerpuck.com/job-board/lyft/job/7221735002?gh_jid=7221735002
-
-Senior Software Engineer, Security Foundations - https://app.careerpuck.com/job-board/lyft/job/7239819002?gh_jid=7239819002
-
-Staff Privacy Analyst - https://app.careerpuck.com/job-board/lyft/job/7100473002?gh_jid=7100473002
+Software Engineer, Security Foundations - https://app.careerpuck.com/job-board/lyft/job/7495795002?gh_jid=7495795002
 
 Staff Privacy Analyst - https://app.careerpuck.com/job-board/lyft/job/7091217002?gh_jid=7091217002
+
+Staff Privacy Analyst - https://app.careerpuck.com/job-board/lyft/job/7100473002?gh_jid=7100473002
 
