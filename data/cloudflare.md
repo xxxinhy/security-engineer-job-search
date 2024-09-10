@@ -10,13 +10,11 @@ IAM Security Engineer - https://boards.greenhouse.io/cloudflare/jobs/5599773?gh_
 
 IAM Security Engineer - https://boards.greenhouse.io/cloudflare/jobs/5593775?gh_jid=5593775
 
+Network Security Engineer - https://boards.greenhouse.io/cloudflare/jobs/6057788?gh_jid=6057788
+
 Network Security Engineer - https://boards.greenhouse.io/cloudflare/jobs/6076374?gh_jid=6076374
 
-Network Security Engineer - https://boards.greenhouse.io/cloudflare/jobs/6131821?gh_jid=6131821
-
 Product Manager (Email Security Detections & Managed Services, Cloudflare Zero Trust) - https://boards.greenhouse.io/cloudflare/jobs/6055693?gh_jid=6055693
-
-Product Manager - Security Operations Center (SOC) - https://boards.greenhouse.io/cloudflare/jobs/6131583?gh_jid=6131583
 
 Security Architect (Apps/Software) - https://boards.greenhouse.io/cloudflare/jobs/6031921?gh_jid=6031921
 
@@ -30,9 +28,7 @@ Security Operations Center Analyst - https://boards.greenhouse.io/cloudflare/job
 
 Security Operations Engineer, Vulnerability Management - https://boards.greenhouse.io/cloudflare/jobs/6086433?gh_jid=6086433
 
-Security Third Party Risk Management Specialist - https://boards.greenhouse.io/cloudflare/jobs/6071923?gh_jid=6071923
-
-Senior Customer Solutions Engineer, App Security (London based) - https://boards.greenhouse.io/cloudflare/jobs/6149322?gh_jid=6149322
+Senior Customer Solutions Engineer, App Security (London Based) - https://boards.greenhouse.io/cloudflare/jobs/6149322?gh_jid=6149322
 
 Senior Named Account Executive, Public Sector, Department of Homeland Security - https://boards.greenhouse.io/cloudflare/jobs/6040845?gh_jid=6040845
 
@@ -42,13 +38,15 @@ Senior Specialist Solutions Engineer, Application Performance and Security - EME
 
 Senior Technical Enablement Architect, Application Security - https://boards.greenhouse.io/cloudflare/jobs/6117669?gh_jid=6117669
 
-Software Engineer - Cloud Email Security (CES) - https://boards.greenhouse.io/cloudflare/jobs/5691420?gh_jid=5691420
+Software Engineer - Cloud Email Security, CES - https://boards.greenhouse.io/cloudflare/jobs/5691420?gh_jid=5691420
 
-Software Engineer - Network Security - https://boards.greenhouse.io/cloudflare/jobs/5946058?gh_jid=5946058
+Software Engineer, Network Security - https://boards.greenhouse.io/cloudflare/jobs/5946058?gh_jid=5946058
 
 Software Engineer, Privacy Team - https://boards.greenhouse.io/cloudflare/jobs/6171513?gh_jid=6171513
 
 Software Engineer (Security Platform, Distributed Systems) - https://boards.greenhouse.io/cloudflare/jobs/5932291?gh_jid=5932291
 
 Software Engineer (Security Platform, Internal PKI) - https://boards.greenhouse.io/cloudflare/jobs/5932288?gh_jid=5932288
+
+Sr. Manager, Security Customer Assurance - https://boards.greenhouse.io/cloudflare/jobs/6193384?gh_jid=6193384
 

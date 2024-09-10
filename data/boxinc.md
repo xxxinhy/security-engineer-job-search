@@ -6,3 +6,5 @@ Senior Compliance Manager, Security - https://job-boards.greenhouse.io/boxinc/jo
 
 Senior Manager, Security Compliance (Customer Trust) - https://job-boards.greenhouse.io/boxinc/jobs/5925793
 
+Software Engineer III, Security Projects - https://job-boards.greenhouse.io/boxinc/jobs/5415684
+

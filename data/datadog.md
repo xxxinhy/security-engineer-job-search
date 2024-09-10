@@ -4,18 +4,6 @@ Engineering Manager I - Application Security Libraries (Lisbon) - https://career
 
 Enterprise Security Sales Engineer (French Speaking) - https://careers.datadoghq.com/detail/6180600/?gh_jid=6180600
 
-Enterprise Security Sales Engineer - US West - https://careers.datadoghq.com/detail/6094997/?gh_jid=6094997
-
-Enterprise Security Sales Engineer - US West - https://careers.datadoghq.com/detail/6040824/?gh_jid=6040824
-
-Enterprise Security Sales Engineer - US West - https://careers.datadoghq.com/detail/6094984/?gh_jid=6094984
-
-Enterprise Security Sales Engineer - US West - https://careers.datadoghq.com/detail/6094987/?gh_jid=6094987
-
-Enterprise Security Sales Engineer - US West - https://careers.datadoghq.com/detail/6094992/?gh_jid=6094992
-
-Enterprise Security Sales Engineer - US West - https://careers.datadoghq.com/detail/6094994/?gh_jid=6094994
-
 Information Security Analyst II, Customer Trust - https://careers.datadoghq.com/detail/5912132/?gh_jid=5912132
 
 Information Security Analyst II, Customer Trust (Lisbon) - https://careers.datadoghq.com/detail/5912135/?gh_jid=5912135
@@ -34,11 +22,7 @@ Security Researcher - Application Security - https://careers.datadoghq.com/detai
 
 Senior Analyst - Technical Privacy - https://careers.datadoghq.com/detail/6019333/?gh_jid=6019333
 
-Senior Cloud Security Engineer  - https://careers.datadoghq.com/detail/5813168/?gh_jid=5813168
-
-Senior Cloud Security Engineer (Portugal) - https://careers.datadoghq.com/detail/6067899/?gh_jid=6067899
-
-Senior Engineer - Security Incident Response - NorAm - https://careers.datadoghq.com/detail/5992789/?gh_jid=5992789
+Senior Engineer - Offensive Security Developer - https://careers.datadoghq.com/detail/5746732/?gh_jid=5746732
 
 Senior Enterprise IT Security Engineer - https://careers.datadoghq.com/detail/6047183/?gh_jid=6047183
 
@@ -50,17 +34,13 @@ Senior Product Manager, Cloud Security - Identity - https://careers.datadoghq.co
 
 Senior Product Marketing Manager (Cloud Security) - https://careers.datadoghq.com/detail/6108223/?gh_jid=6108223
 
-Senior Security Engineer - Adversary Simulation Engineering - https://careers.datadoghq.com/detail/5746732/?gh_jid=5746732
+Senior Security Engineer - Adversary Simulation Operations - https://careers.datadoghq.com/detail/6229334/?gh_jid=6229334
 
 Senior Security Engineer - Application Security - https://careers.datadoghq.com/detail/6169666/?gh_jid=6169666
 
-Senior Security Engineer - Threat Detection - https://careers.datadoghq.com/detail/6153558/?gh_jid=6153558
-
-Senior Security Engineer - Threat Detection - https://careers.datadoghq.com/detail/6153553/?gh_jid=6153553
+Senior Software Engineer - Cloud Security Platform - https://careers.datadoghq.com/detail/4599154/?gh_jid=4599154
 
 Senior Software Engineer - Cloud Security Platform - https://careers.datadoghq.com/detail/5267416/?gh_jid=5267416
-
-Senior Software Engineer - Cloud Security Platform - https://careers.datadoghq.com/detail/4599154/?gh_jid=4599154
 
 Senior Software Engineer - Cloud Security Platform (Lisbon) - https://careers.datadoghq.com/detail/5731218/?gh_jid=5731218
 
